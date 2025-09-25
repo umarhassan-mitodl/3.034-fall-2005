@@ -5,6 +5,8 @@ description: This resource contains laborartory experiment on interfacial pPolym
 file: /courses/3-034-organic-biomaterials-chemistry-fall-2005/5e963947780de11c9e8dcea930c92209_lab2_interfacial.pdf
 file_size: 42452
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

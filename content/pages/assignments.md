@@ -2,6 +2,8 @@
 content_type: page
 description: This section includes 6 problems/practice assignments sets along with
   their solutions on organic and biomaterials chemistry.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

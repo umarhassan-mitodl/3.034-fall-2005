@@ -2,6 +2,8 @@
 content_type: page
 description: This section lists the lab files as per the topics covered in the course.
   This serve as the primary reading material for this course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Laboratory Assignments
 ocw_type: CourseSection
